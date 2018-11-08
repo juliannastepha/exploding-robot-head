@@ -29,7 +29,7 @@ body {
 
 .robot-body {
   width: 320px;
-  padding-bottom: -1em;
+  margin-bottom: -1em;
 }
 
 .robot-brain {
@@ -54,7 +54,7 @@ body {
   left: 2.25em;
 }
 
-.robot:hover .robot-head-right{
+.robot:hover .robot-head-right {
   right: .25em;
   top: -3em;
 }
